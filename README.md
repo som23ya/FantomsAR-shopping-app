@@ -70,7 +70,7 @@ $ git checkout master
 # Reset local `master` branch to match the `upstream` repository's `master` branch
 $ git reset --hard upstream/master
 
-# Push changes to your forked `CodeAsylums-App` repo
+# Push changes to your forked `FantomsAR-shopping-app` repo
 $ git push origin master
 ```
 ## Contributing :bangbang:
