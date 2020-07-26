@@ -45,6 +45,10 @@ Install Java Development Kit (JDK).
 Download, install, and run the latest version of Android Studio, download the Android Studio SDK and set it up correctly.
 You can find a guide on how to do this here:(http://developer.android.com/sdk/installing/index.html?pkg=studio).
 
+Fork and then clone this repository and import it to Android Studio. :fork_and_knife:
+
+Once the gradle build is finished, click on the green play button to build and run the app.
+
 
 ##### Quick Start to Arcore
 See the [Quickstart for Android Java](https://developers.google.com/ar/develop/java/quickstart)  or [Quickstart for Android NDK developer guide](https://developers.google.com/ar/develop/c/quickstart).
@@ -52,9 +56,6 @@ See the [Quickstart for Android Java](https://developers.google.com/ar/develop/j
 ##### API Reference
 See the [ARCore SDK for Java API Reference](https://developers.google.com/ar/reference/java).
 This SDK provides APIs for all of the essential AR features like motion tracking, environmental understanding, and light estimation. With these capabilities you can build entirely new AR experiences or enhance existing apps with AR features.
-Fork and then clone this repository and import it to Android Studio. :fork_and_knife:
-
-Once the gradle build is finished, click on the green play button to build and run the app.
 
 ## Sync it :recycle:
 
