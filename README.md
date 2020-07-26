@@ -4,8 +4,9 @@
 
 **Introduction**
 
-GOAL:Our intention is to give shoppers of our storefront the option of an AR experience of a product with an android application.
+GOAL: Our intention is to give shoppers of our storefront the option of an AR experience of a product with an android application.
 A complete virtual experience online store which gives users the chance to experience the masks, clothing and other commodities in AR. 
+
 As of this year, Google has recently announced many more ARCore features to be made available over the web(which is currently pending public release) and Android. Having implemented ARkit and Arcore, we felt it’s time to get the word out there on the true capabilities of these features. 
 
 ## TECH STACK:
@@ -20,8 +21,8 @@ As of this year, Google has recently announced many more ARCore features to be m
 #### Spark Arstudio
 
 ## HOW CAN THIS PRODUCT GAIN MARKET? 
-### ● Contact with various independent artists who would like their merch to be sold on a bigger base. 
-### ● Contact NGOS who work with local cloth and handmade goods markets for production. 
+##### ● Contact with various independent artists who would like their merch to be sold on a bigger base. 
+##### ● Contact NGOS who work with local cloth and handmade goods markets for production. 
 
 
 #### FEATURE 1: FILTERS 
@@ -43,6 +44,13 @@ Install Java Development Kit (JDK).
 Download, install, and run the latest version of Android Studio, download the Android Studio SDK and set it up correctly.
 You can find a guide on how to do this here:(http://developer.android.com/sdk/installing/index.html?pkg=studio).
 
+
+##### Quick Start to Arcore
+See the [Quickstart for Android Java](https://developers.google.com/ar/develop/java/quickstart)  or [Quickstart for Android NDK developer guide](https://developers.google.com/ar/develop/c/quickstart).
+
+##### API Reference
+See the [ARCore SDK for Java API Reference](https://developers.google.com/ar/reference/java).
+This SDK provides APIs for all of the essential AR features like motion tracking, environmental understanding, and light estimation. With these capabilities you can build entirely new AR experiences or enhance existing apps with AR features.
 Fork and then clone this repository and import it to Android Studio. :fork_and_knife:
 
 Once the gradle build is finished, click on the green play button to build and run the app.
