@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fantoms App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">USER</string>
+    <string name="nav_header_subtitle">Profile</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_profile">Profile </string>
+    <string name="action_Cart">Cart</string>
+    <string name="action_"> </string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_masks">Masks</string>
+    <string name="menu_tshirts">T-shirts</string>
+    <string name="menu_gloves">Gloves</string>
+    <string name="menu_headbands">Headbands</string>
+    <string name="menu_faceshields">Faceshields</string>
+</resources>
