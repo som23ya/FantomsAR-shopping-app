@@ -68,3 +68,4 @@ $ git push origin master
 ## Contributing :bangbang:
 This is an OpenSource project and we would be happy to see new contributors. 
 We love Pull Requests, Bug Reports, ideas, code reviews or any other kind of positive contribution.All fixes should be proposed via pull requests. 
+ _**Happy Contributing**_ :smiley: 
