@@ -31,13 +31,40 @@ People can try on mask filters, cloth filters and select the ones which they lov
 Scanning the merch/qr code provided would take to virtual rooms, consisting of fan arts.
 
 
+## Steps to follow :scroll:
 
+### Star The Repo :star2:
 
-## Building the Project
-Install Java Development Kit (J
-Download, install, and run the latest version of Android Studio.\ You can find a guide on how to do this here:(http://developer.android.com/sdk/installing/index.html?pkg=studio).\
-Fork and then clone this repository and import it to Android Studio.\
-Once the gradle build is finished, click on the green play button to build and run the app.\
+Star the repo by pressing the topmost-right button to start your wonderful journey.
 
-## Contributing
-We love Pull Requests, Bug Reports, ideas, code reviews or any other kind of positive contribution.
+## Building the Project :confetti_ball:
+Install Java Development Kit (JDK).
+
+Download, install, and run the latest version of Android Studio, download the Android Studio SDK and set it up correctly.
+You can find a guide on how to do this here:(http://developer.android.com/sdk/installing/index.html?pkg=studio).
+
+Fork and then clone this repository and import it to Android Studio. :fork_and_knife:
+
+Once the gradle build is finished, click on the green play button to build and run the app.
+
+## Sync it :recycle:
+
+Always keep your local copy of the repository updated with the original repository.
+Before making any changes and/or in an appropriate interval, run the following commands *carefully* to update your local repository.
+
+```sh
+# Fetch all remote repositories and delete any deleted remote branches
+$ git fetch --all --prune
+
+# Switch to `master` branch
+$ git checkout master
+
+# Reset local `master` branch to match the `upstream` repository's `master` branch
+$ git reset --hard upstream/master
+
+# Push changes to your forked `CodeAsylums-App` repo
+$ git push origin master
+```
+## Contributing :bangbang:
+This is an OpenSource project and we would be happy to see new contributors. 
+We love Pull Requests, Bug Reports, ideas, code reviews or any other kind of positive contribution.All fixes should be proposed via pull requests. 
