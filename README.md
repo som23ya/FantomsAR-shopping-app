@@ -1,5 +1,6 @@
 # FantomsAR-shopping-app
 
+<img height='175' src="https://github.com/som23ya/FantomsAR-shopping-app/blob/master/icon.jpg" align="left" hspace="12" vspace="130">
 
 
 **Introduction**
