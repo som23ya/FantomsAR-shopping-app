@@ -34,11 +34,10 @@ Scanning the merch/qr code provided would take to virtual rooms, consisting of f
 
 
 ## Building the Project
-Install Java Development Kit (JDK)
-Download, install, and run the latest version of Android Studio.
- You can find a guide on how to do this here: Setting up Android Studio (http://developer.android.com/sdk/installing/index.html?pkg=studio).
-Fork and then clone this repository and import it to Android Studio.
-Once the gradle build is finished, click on the green play button to build and run the app.
+Install Java Development Kit (J
+Download, install, and run the latest version of Android Studio.\ You can find a guide on how to do this here:(http://developer.android.com/sdk/installing/index.html?pkg=studio).\
+Fork and then clone this repository and import it to Android Studio.\
+Once the gradle build is finished, click on the green play button to build and run the app.\
 
 ## Contributing
 We love Pull Requests, Bug Reports, ideas, code reviews or any other kind of positive contribution.
