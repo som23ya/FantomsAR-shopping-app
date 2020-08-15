@@ -10,6 +10,8 @@
     <string name="action_profile">Profile </string>
     <string name="action_Cart">Cart</string>
     <string name="action_"> </string>
+    <string name="menu_gallery"></string>
+    <string name="menu_slideshow"></string>
 
     <string name="menu_home">Home</string>
     <string name="menu_masks">Masks</string>
