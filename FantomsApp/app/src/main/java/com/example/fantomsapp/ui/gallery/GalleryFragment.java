@@ -12,7 +12,9 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.example.fantomsapp.R;
+import com.example.splash_screen.R;
+
+//import com.example.fantomsapp.R;
 
 public class GalleryFragment extends Fragment {
 
