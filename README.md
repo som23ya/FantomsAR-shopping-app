@@ -5,7 +5,7 @@
 
 **Introduction**
 
-GOAL: Our intention is to give shoppers of our storefront the option of an AR features with an android application.
+GOAL: Our intention is to give shoppers of our storefront the option of AR features with an android application.
 A complete virtual store which gives users the chance to experience the masks, clothing and other commodities in AR. 
 
 As of this year, Google has recently announced many more ARCore features to be made available over the web(which is currently pending public release) and Android. Having implemented ARkit and Arcore, we felt it’s time to get the word out there on the true capabilities of these features. 
